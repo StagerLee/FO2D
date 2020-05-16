@@ -26,6 +26,8 @@ Research focus: Collect a list of songs through an onlines surbvey (50 songs sho
 
 Visualize audio fetures and associated metada (ie. classify study music using Spotifys classification scheme); group participants by demographic (Faculty, gender, personality?) to explore how the study-music 'genre' looks for different groups. Look at patterns, similarities and differences.
 
+How does this situational type of music (ie. study music) relate to the concept of 'genre' based on the similarities of its audio fetures?
+
 
 Column {.tabset}
 -----------------------------------------------------------------------
