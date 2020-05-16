@@ -32,7 +32,8 @@ How does this situational type of music (ie. study music) relate to the concept 
 Column {.tabset}
 -----------------------------------------------------------------------
 
-### Audio: Corpus vs Anti-Corpus (Not Actual Data)
+### **Audio: Corpus vs Anti-Corpus (Not Actual Data)**
+The data visualized is from 2 different playlists (study music vs anti-studi music) that was pulled using the Spotify API and Python, wrangled in Rstudio (calculate mean value) and visualized using the package Plotly
 
 ```{r}
 library(plotly)
